@@ -396,7 +396,7 @@ p {
 }
 
 .sing-up-button > a:hover {
-    background: #efc958;
+    background: #0103ad;
     color: #1b1c1d;
     border-color: transparent;
     -webkit-transition-duration: 500ms;
@@ -554,6 +554,11 @@ p {
 :: 4.0 Special Area CSS
 -------------------------- */
 
+.abc{
+    color: #0103ad;
+}
+
+
 /* Safer for all */
 
 .project:hover{
@@ -591,6 +596,7 @@ p {
     transition-duration: 800ms;
     margin-bottom: 30px;
 }
+
 
 .special_description_content > h2 {
     color: #0103ad;
@@ -639,7 +645,7 @@ p {
 .app-download-btn.active a,
 .app-download-btn a:hover {
     border-color: transparent;
-    background-color: #efc958;
+    background-color: #0103ad;
     color: #1b1c1d;
 }
 
