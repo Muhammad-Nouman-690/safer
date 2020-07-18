@@ -658,7 +658,7 @@ p {
 .app-download-btn.active a,
 .app-download-btn a:hover {
     border-color: transparent;
-    background-color: #0103ad;
+    background-color: #0103ad !important;
     color: #1b1c1d;
 }
 
