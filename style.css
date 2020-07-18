@@ -466,9 +466,9 @@ p {
 }
 
 .wellcome-heading > h2 {
-    font-size: 100px;
+    font-size: 75px;
     color: #ffffff;
-    font-weight: 700;
+    font-weight: 500;
     position: relative;
     z-index: 3;
 }
@@ -554,8 +554,21 @@ p {
 :: 4.0 Special Area CSS
 -------------------------- */
 
-.abc{
+.res{
     color: #0103ad;
+} 
+
+.ret{
+    background-color: #0103ad;
+    color: white;
+}
+
+.abc {
+    color: #0103ad;
+}
+
+.panel-title {
+    color: #0103ad !important;
 }
 
 
